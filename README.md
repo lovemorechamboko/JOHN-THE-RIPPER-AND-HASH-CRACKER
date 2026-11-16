@@ -22,7 +22,7 @@ Before cracking, we need to know which algorithm was used (MD5, SHA1, SHA256, et
 ## HASH CALCULATOR
 A hash calculator is a tool that takes any file or text string and runs it through a mathematical algorithm to turn it into a unique, fixed-size string of letters and numbers called a hash value (or checksum).
 
-![image alt]
+![image alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/92173d9e4eaf5709fdcab2309e4ee5c4ca5912f5/Hash%20calculator%20file.jpg)
 
 How It Works
 
