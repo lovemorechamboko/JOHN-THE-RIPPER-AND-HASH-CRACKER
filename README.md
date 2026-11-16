@@ -36,10 +36,13 @@ Johnny mainly works with a file that contains multiple hashes. Once we have that
 ![image alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/70a36f470cdf829fa4e7381483594d4dd55e190b/Johnny.jpg)
 
 Basic cracking using a wordlist
+
 The first and most common method is dictionary-based cracking, where John uses a wordlist such as rockyou.txt and tries each password.
 
 ## Identifying the Hash Type
-Before cracking, we need to know which algorithm was used (MD5, SHA1, SHA256, etc.). For this, I used a Hash Calculator.
+Before cracking, we need to know which algorithm was used (MD5, SHA1, SHA256, etc.). 
+
+For this, I used a Hash Calculator.
 
 ## Hash Calculator
 A hash calculator is a tool that takes any file or text string and runs it through a mathematical algorithm to turn it into a unique, fixed-size string of letters and numbers called a hash value (or checksum).
@@ -65,11 +68,22 @@ A hash calculator is a tool that takes any file or text string and runs it throu
      
 • CRC32: A 32-bit error-checking code used to spot accidental data corruption in downloads or storage
 
+## Evidence
 
+### Networkwalks Hash Calculator
+![iamge alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/f791ddf031cb0543a18727d88af728d2343de8b9/Password%20cracked.jpg)
 
+### Results
+![iamge alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/f791ddf031cb0543a18727d88af728d2343de8b9/password%20cracked%201.jpg)
 
+### Online Hash Calculator
 
+![iamge alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/f791ddf031cb0543a18727d88af728d2343de8b9/Hashe%20calculator.jpg)
 
+### Results
+![iamge alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/f791ddf031cb0543a18727d88af728d2343de8b9/file%203%20cracked.jpg)
+
+![iamge alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/f791ddf031cb0543a18727d88af728d2343de8b9/password%20cracked%202.jpg)
 
 ### 👤 Author
 
