@@ -12,6 +12,18 @@ This Repository documents the execution of Hash Cracking and Hash Calculations.
 The of this lab is to execute and demonstrate cryptographic hash extraction from password protected pdf files or documents and evaluate password strength using dictionary attacks across both Windows, Linux tools and online based security tools. Today I completed the “John the Ripper: The Basics”. 
 This helped me understand how password cracking works at a practical level and how attackers (and defenders) test the strength of hashed passwords in real systems.
 
+## 🛡️ Tools 🧰
+
+### Windows 11 and Linux Operating Systems
+
+### John The Ripper (Johnny)
+
+### Web Security Utilities
+
+  1. Networkwalks Hash Calculator
+  2. Networkwalks Password Cracker
+  3. Online Hash Calculator
+
 ## Introduction
 
 John the Ripper - is a hash-cracking tool used mainly on Linux and windows systems. It does not crack passwords directly. Instead, it tries to match a given hash with possible password values by hashing guesses and comparing the results. This is important because in real systems, passwords are never stored in plain text; they are stored as hashes. When a data breach happens, attackers usually get a file full of hashed passwords, not actual passwords. 
