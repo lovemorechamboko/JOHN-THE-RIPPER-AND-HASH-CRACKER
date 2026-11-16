@@ -91,4 +91,4 @@ A hash calculator is a tool that takes any file or text string and runs it throu
 
 #### Cybersecurity Professional
 
-LinkedIn:
+LinkedIn:https://www.linkedin.com/in/lovemore-chamboko-83b41319a
