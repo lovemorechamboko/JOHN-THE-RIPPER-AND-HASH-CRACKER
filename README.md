@@ -15,3 +15,17 @@ Johnny mainly works with a file that contains multiple hashes. Once we have that
 
 Basic cracking using a wordlist
 The first and most common method is dictionary-based cracking, where John uses a wordlist such as rockyou.txt and tries each password.
+
+## IDENTIFYING THE HASH TYPE
+Before cracking, we need to know which algorithm was used (MD5, SHA1, SHA256, etc.). For this, I used a Hash Calculator.
+
+## HASH CALCULATOR
+A hash calculator is a tool that takes any file or text string and runs it through a mathematical algorithm to turn it into a unique, fixed-size string of letters and numbers called a hash value (or checksum).
+
+![image alt]
+
+How It Works
+
+• Deterministic: The exact same input will always generate the exact same hash.
+• One-Way: You cannot reverse-engineer or "decrypt" a hash back into the original file or text.
+• The Avalanche Effect: If you change even a single character, letter case, or byte in the file, the resulting hash changes completely.
