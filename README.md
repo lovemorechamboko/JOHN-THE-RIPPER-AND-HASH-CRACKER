@@ -1,7 +1,11 @@
 # JOHN-THE-RIPPER-AND-HASH-CRACKER
 ## HASH RECOVERY AND PASSWORD CRACKING
 
-## Project Overview
+![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-blue)
+![Status](https://img.shields.io/badge/Status-Completed-green)
+![Level](https://img.shields.io/badge/Level-Professional-orange)
+
+## 🔍 Project Overview
 
 This Repository documents the execution of Hash Cracking and Hash Calculations.
 
