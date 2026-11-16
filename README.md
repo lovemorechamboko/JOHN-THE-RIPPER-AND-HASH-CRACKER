@@ -1,5 +1,7 @@
 # JOHN-THE-RIPPER-AND-HASH-CRACKER
-## Using Johnny and Hash Cracker to crack file passwords
+## HASH RECOVERY AND PASSWORD CRACKING
+
+## PROJECT OVERVIEW
 
 Today I completed the “John the Ripper: The Basics”. 
 This helped me understand how password cracking works at a practical level and how attackers (and defenders) test the strength of hashed passwords in real systems.
