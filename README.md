@@ -24,8 +24,21 @@ A hash calculator is a tool that takes any file or text string and runs it throu
 
 ![image alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/92173d9e4eaf5709fdcab2309e4ee5c4ca5912f5/Hash%20calculator%20file.jpg)
 
-How It Works
+## How It Works
 
-• Deterministic: The exact same input will always generate the exact same hash.
-• One-Way: You cannot reverse-engineer or "decrypt" a hash back into the original file or text.
-• The Avalanche Effect: If you change even a single character, letter case, or byte in the file, the resulting hash changes completely.
+     • Deterministic: The exact same input will always generate the exact same hash.
+     
+     • One-Way: You cannot reverse-engineer or "decrypt" a hash back into the original file or text.
+     
+     • The Avalanche Effect: If you change even a single character, letter case, or byte in the file, the resulting hash changes completely.
+
+
+## Common Hashing Algorithms
+
+     • MD5: Produces a 128-bit hash. Fast and common for basic file checks, though no longer considered secure for strong cryptographic needs.
+     
+     • SHA-1: Produces a 160-bit hash. Older, and its collision resistance has weakened over time.
+     
+     • SHA-256: Produces a 256-bit hash. Widely used today for high-security applications, digital signatures, and blockchain.
+     
+     • CRC32: A 32-bit error-checking code used to spot accidental data corruption in downloads or storage
