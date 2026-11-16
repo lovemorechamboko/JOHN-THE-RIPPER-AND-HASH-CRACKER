@@ -64,3 +64,17 @@ A hash calculator is a tool that takes any file or text string and runs it throu
 • SHA-256: Produces a 256-bit hash. Widely used today for high-security applications, digital signatures, and blockchain.
      
 • CRC32: A 32-bit error-checking code used to spot accidental data corruption in downloads or storage
+
+
+
+
+
+
+
+### 👤 Author
+
+## Lovemore Chamboko
+
+#### Cybersecurity Professional
+
+LinkedIn:
