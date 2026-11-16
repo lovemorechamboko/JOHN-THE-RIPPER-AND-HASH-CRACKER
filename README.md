@@ -11,7 +11,7 @@ Johnny mainly works with a file that contains multiple hashes. Once we have that
 
 ## JONHNNY ON WINDOWS
 
-![image alt]()
+![image alt](https://github.com/lovemorechamboko/JOHN-THE-RIPPER-AND-HASH-CRACKER/blob/70a36f470cdf829fa4e7381483594d4dd55e190b/Johnny.jpg)
 
 Basic cracking using a wordlist
 The first and most common method is dictionary-based cracking, where John uses a wordlist such as rockyou.txt and tries each password.
